@@ -13,3 +13,5 @@ I obtained a joint Ph.D in Statistics from [Katholieke Universiteit Leuven (KU L
 Before joining the University of Montpellier, I worked as biostastistician at the *Clinical Research Unit* of the Nestlé Research Center in Lausanne, Switzerland, from March 2019 to August 2021, and at the *[Clinical Research and Epidemiology Unit](https://www.chu-montpellier.fr/fr/recherche-et-innovation/notre-organisation/structures-support/unite-de-recherche-clinique-et-epidemiologie-urce)* of the Montpellier University Hospital from September 2022 to November 2024.
 
 My CV is available [here](/files/cv.pdf) (updated: October 2025)
+
+Contact: mailis.amico[at]umontpellier.fr
