@@ -12,7 +12,7 @@ author_profile: true
 2023 -          : **Modèles linéaires généralisés et mixtes** (*15 hours/year*)  
                   2nd year Master's degree Epidémiologie, Données de Santé et Biostatistiques
 ### Faculty of Sciences
-2025 -          : **HAX916X Ateliers-Projets M2 SSD - Data Science In Lab** (*12 hours/year*)  
+2025 -          : **HAX916X Ateliers - Data Science In Lab** (*12 hours/year*)  
 2nd year Master's degree Statistique et Science des données
 
 2024 -          : **HAX817X : Projet**    
