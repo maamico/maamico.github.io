@@ -3,6 +3,8 @@ permalink: /Publications/
 title: "Publications"
 author_profile: true
 ---
+You can also find my articles on [my Google scholar profile](https://scholar.google.com/citations?user=8xLGPRYAAAAJ)
+
 # Peer-reviewed journals
 10. Canaud, B., Davenport, D., Morena-Carrere, M., Amico, M., Molinari, N., and Cristol, J-P. (2025). Continuous beta-2 microglobulin–based clearance highlights superiority of high-Dose HDF over high-flux HD in predicting outcomes, Scientific Report, 15, online.
 11. 
