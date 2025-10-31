@@ -4,7 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
 ## University of Montpellier (France)
 ### Faculty of Medicine
 2025 -          : **Modèle linéaire général** (*20 hours/year*)  
@@ -23,11 +22,10 @@ author_profile: true
 2023 -          : **Régressions logistique et Poissonienne** (*8 hours/year*) - *Practical activities*  
  1st year Master's degree MIASHS 
 
-
 # Previously
 ## University of Montpellier Paul Valery (France)
 2021 - 2022 : **Module Prépro : Métiers de l’analyse, des études et du conseil : Outils Statistiques S4** (*36 hours/year*) 
-2nd year Bachelor's degrees in Sociology, Psychology and economic administration
+2nd year Bachelor's degrees in Sociology, Psychology and Economic Administration
 
 2021 - 2022 : **Statistiques descriptives et probabilitées** (*48 hours/year*) - *Practical activities*   
 1st year Bachelor's degree MIASHS 
