@@ -14,4 +14,4 @@ Before joining the University of Montpellier, I worked as biostastistician at th
 
 My CV is available [here](/files/cv.pdf) (updated: October 2025)
 
-Contact: mailis.amico[at]umontpellier.fr
+**Contact**: mailis.amico[at]umontpellier.fr
