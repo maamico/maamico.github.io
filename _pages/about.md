@@ -5,8 +5,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![UM](https://maamico.github.io/files/logo_um_mini_2022_rouge_rvb.png)
-![IDESP](https://maamico.github.io/files/Logo-IDESP.png)
+![UM](https://maamico.github.io/files/logo_um_mini_2022_rouge_rvb.png) &nbsp; &nbsp; &nbsp;
+![IDESP](https://maamico.github.io/files/Logo-IDESP.png) &nbsp; &nbsp; &nbsp;
+![Inserm](https://maamico.github.io/files/InsermSeul_Rvb__noir.png)
 
 I am an Assistant Professor of Statistics (*Chaire de Professeur Junior - tenure track*) at the [University of Montpellier](https://www.umontpellier.fr/en/) (France) since December 2024. I am affiliated with the *[Desbrest Institute of Epidemiology and Public Health](https://idesp.umontpellier.fr/en/accueil-english/)*, a joint research unit of Inserm and the University of Montpellier, as well as with the *Faculty of Medicine* at the University of Montpellier.
 
