@@ -8,11 +8,16 @@ author_profile: true
 You can also find my articles on [my Google scholar profile](https://scholar.google.com/citations?user=8xLGPRYAAAAJ)
 
 # Peer-reviewed journals
+Silva, R., Riedel, C., **Amico, M.**, Reboul, R., Guibert, B., Sennaoui, C., Bessiere, C., Ruffle, F., Gilbert, G., Boureux, A. et Commes, T. (2025). [Acute myeloid leukemia risk stratification in younger and older patients through transcriptomic machine learning models](https://www.nature.com/articles/s41598-025-23468-z), *Scientific Report*, 15, online.
+
+Pers, Y-M. et al. (2025). [Effect of intra-articular adipose-derived mesenchymal stromal cell versus placebo injection on pain and function in patients with knee osteoarthritis: the ADIPOA2 phase 2b randomised clinical trial](https://ard.eular.org/article/S0003-4967(25)04296-7/fulltext), *Annals of Rheumatic Diseases*, *to appear*.
+ 
+
 Canaud, B., Davenport, D., Morena-Carrere, M., **Amico, M.**, Molinari, N., and Cristol, J-P. (2025). [Continuous beta-2 microglobulin–based clearance highlights superiority of high-Dose HDF over high-flux HD in predicting outcomes](https://www.nature.com/articles/s41598-025-07497-2), *Scientific Report*, 15, online.
 
 Desmyttere, G., Ralandison, S., Dusfour, G., Moulis, L., **Amico, M.**, Julia, M., Pers, Y-M., and Jorgensen, C. (2025). [A combined analysis of spinal mobility and gait spatiotemporal parameters in axial spondyloarthritis using wearable sensors](https://www.clinbiomech.com/article/S0268-0033(25)00128-7/abstract), *Clinical Biomechanics*, 126, online.
 
-Savvala, N., **Amico, M.**, Joumaa, S., Jaussent, A. Silvestri, M., Lefebvre, P. Khamajeet, A., Picot M-C., Galtier, F., and Nocca, D. (2024). [Nissen sleeve gastrectomy : 5-year follow-up results](https://www.sciencedirect.com/science/article/abs/pii/S1550728924008621#:~:text=Highlights&text=Nissen%20sleeve%20gastrectomy%20achieves%20a,the%20mortality%20rate%20was%20nil.), *Surgery for Obesity and Related Diseases*, to appear.
+Savvala, N., **Amico, M.**, Joumaa, S., Jaussent, A. Silvestri, M., Lefebvre, P. Khamajeet, A., Picot M-C., Galtier, F., and Nocca, D. (2024). [Nissen sleeve gastrectomy : 5-year follow-up results](https://www.sciencedirect.com/science/article/abs/pii/S1550728924008621#:~:text=Highlights&text=Nissen%20sleeve%20gastrectomy%20achieves%20a,the%20mortality%20rate%20was%20nil.), *Surgery for Obesity and Related Diseases*, *to appear*.
 
 Saour, M., Blin, C., Zeroual, N., Mourad, M., **Amico, M.**, Gaudard, P., Picot, M-C., and Colson, P. (2024). [Impact of a bundle of care (intravenous iron, erythropoietin and transfusion metabolic adjustment) on post-operative transfusion incidence in cardiac surgery : a single-centre, randomised, open-label, parallel-group controlled pilot trial](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00133-9/fulltext). *The Lancet Regional Health Europe*, 43, Published online.
 
