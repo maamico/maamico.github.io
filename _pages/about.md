@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: true
+title: Maïlis Amico
 redirect_from: 
   - /about/
   - /about.html
