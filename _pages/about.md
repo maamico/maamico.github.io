@@ -17,9 +17,8 @@ Before joining the University of Montpellier, I worked as biostastistician at th
 
 My research interests lie in survival analysis, cure models, biostatistics and clinical research.
 
-My CV can be found [here](/files/cv.pdf) (Last update: April 2026)
+My CV can be found [here](/files/cv.pdf) (Last updated: April 2026)
 
-**Contact**: 
-mailis.amico[at]umontpellier.fr
-300 avenue du professeur Emile Jeanbrau
+**Contact**: mailis.amico[at]umontpellier.fr \
+300 avenue du Professeur Emile Jeanbrau\
 34090 Montpellier
