@@ -9,16 +9,29 @@ redirect_from:
 ![IDESP](https://maamico.github.io/files/Logo-IDESP.png) &nbsp; &nbsp; &nbsp;
 ![Inserm](https://maamico.github.io/files/InsermSeul_Rvb__noir.png)
 
+<p align= "justify">
 Since December 2024, I have been holding a *tenure-track Junior Professor Chair in Statistics* at the [University of Montpellier](https://www.umontpellier.fr/en/), France. I am affiliated with the *[Desbrest Institute of Epidemiology and Public Health](https://idesp.umontpellier.fr/en/accueil-english/)*, a joint research unit of Inserm and the University of Montpellier.
+</p>
 
+<p align= "justify">
 I obtained a joint Ph.D in Statistics in 2018 from the [Katholieke Universiteit Leuven (KU Leuven)](https://feb.kuleuven.be/research/decision-sciences-and-information-management/orstat/orstat) and the [Université catholique de Louvain (UCLouvain)](https://www.uclouvain.be/en/research-institutes/lidam/isba), Belgium, under the supervision of [Ingrid Van Keilegom](https://www.kuleuven.be/wieiswie/en/person/00062045) (KU Leuven) and [Catherine Legrand](https://perso.uclouvain.be/catherine.legrand/) (UCLouvain). My thesis manuscript is available [here](/files/PhDThesis-MailisAmicoG.pdf).
+</p>
 
+<p align= "justify">
 Before joining the University of Montpellier, I worked as biostastistician at the *Clinical Research Unit* of the Nestlé Research Center in Lausanne, Switzerland, from March 2019 to August 2021, and at the *[Clinical Research and Epidemiology Unit](https://www.chu-montpellier.fr/fr/recherche-et-innovation/notre-organisation/structures-support/unite-de-recherche-clinique-et-epidemiologie-urce)* of the Montpellier University Hospital from September 2022 to November 2024.
+</p>
 
+<p align= "justify">
 My research interests lie in survival analysis, cure models, biostatistics and clinical research.
+</p>
 
+<p align= "justify">
 My CV can be found [here](/files/cv.pdf) (Last updated: April 2026)
+</p>
 
+<p align= "justify">
 **Contact**: mailis.amico[at]umontpellier.fr \
 300 avenue du Professeur Emile Jeanbrau\
 34090 Montpellier
+</p>
+
