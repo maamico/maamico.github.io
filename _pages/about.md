@@ -9,8 +9,15 @@ redirect_from:
 ![IDESP](https://maamico.github.io/files/Logo-IDESP.png) &nbsp; &nbsp; &nbsp;
 ![Inserm](https://maamico.github.io/files/InsermSeul_Rvb__noir.png)
 
+
+<br />
+<br />
+<br />
+
+
+
 <p align= "justify">
-Since December 2024, I have been holding a tenure-track Junior Professor Chair in Statistics at the <a href = "https://www.umontpellier.fr/en/">University of Montpellier</a>, France. I am affiliated with the <a href = "https://idesp.umontpellier.fr/en/accueil-english/">Desbrest Institute of Epidemiology and Public Health</a>, a joint research unit of Inserm and the University of Montpellier.
+Since December 2024, I have been holding a tenure-track Junior Professor Chair in Statistics at the <a href = "https://www.umontpellier.fr/en/">University of Montpellier</a>, France. I am a member of the <a href = "https://idesp.umontpellier.fr/en/accueil-english/">Desbrest Institute of Epidemiology and Public Health</a>, a joint research unit of Inserm and the University of Montpellier.
 
 <p align= "justify">
 In 2018, I obtained a joint Ph.D in Statistics from <a href = "https://feb.kuleuven.be/research/decision-sciences-and-information-management/orstat/orstat">KU Leuven</a> and <a href = "https://www.uclouvain.be/en/research-institutes/lidam/isba">UCLouvain</a> in Belgium, under the supervision of <a href = "https://www.kuleuven.be/wieiswie/en/person/00062045">Ingrid Van Keilegom</a> and <a href = "https://perso.uclouvain.be/catherine.legrand/">Catherine Legrand</a>. My thesis manuscript is available <a href = "/files/PhDThesis-MailisAmicoG.pdf">here</a>.
