@@ -33,6 +33,6 @@ My CV can be found <a href = "/files/cv.pdf">here</a> (Last updated: April 2026)
 
 
 <strong>Email adress</strong>: mailis . amico [at] umontpellier . fr <br />
-<strong>Professional adress</strong>: Bâtiment 39, 300 avenue du Professeur Emile Jeanbrau, 34090 Montpellier
+<strong>Professional adress</strong>: Bâtiment 39, 300 avenue du Professeur Emile Jeanbrau, 34090 Montpellier, France
 
 
