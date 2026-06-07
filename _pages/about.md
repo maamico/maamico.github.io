@@ -10,28 +10,24 @@ redirect_from:
 ![Inserm](https://maamico.github.io/files/InsermSeul_Rvb__noir.png)
 
 <p align= "justify">
-Since December 2024, I have been holding a *tenure-track Junior Professor Chair in Statistics* at the [University of Montpellier](https://www.umontpellier.fr/en/), France. I am affiliated with the *[Desbrest Institute of Epidemiology and Public Health](https://idesp.umontpellier.fr/en/accueil-english/)*, a joint research unit of Inserm and the University of Montpellier.
-</p>
+Since December 2024, I have been holding a tenure-track Junior Professor Chair in Statistics at the <a href = "[/files/cv.pdf](https://www.umontpellier.fr/en/)">University of Montpellier</a>, France. I am affiliated with the <a href = "[/files/cv.pdf](https://idesp.umontpellier.fr/en/accueil-english/)">Desbrest Institute of Epidemiology and Public Health</a>], a joint research unit of Inserm and the University of Montpellier.
 
 <p align= "justify">
-I obtained a joint Ph.D in Statistics in 2018 from the [Katholieke Universiteit Leuven (KU Leuven)](https://feb.kuleuven.be/research/decision-sciences-and-information-management/orstat/orstat) and the [Université catholique de Louvain (UCLouvain)](https://www.uclouvain.be/en/research-institutes/lidam/isba), Belgium, under the supervision of [Ingrid Van Keilegom](https://www.kuleuven.be/wieiswie/en/person/00062045) (KU Leuven) and [Catherine Legrand](https://perso.uclouvain.be/catherine.legrand/) (UCLouvain). My thesis manuscript is available [here](/files/PhDThesis-MailisAmicoG.pdf).
-</p>
+I obtained a joint Ph.D in Statistics in 2018 from <a href = "https://feb.kuleuven.be/research/decision-sciences-and-information-management/orstat/orstat">KU Leuven</a> and <a href = "https://www.uclouvain.be/en/research-institutes/lidam/isba">UCLouvain</a> in Belgium, under the supervision of <a href = "https://www.kuleuven.be/wieiswie/en/person/00062045">Ingrid Van Keilegom</a> and <a href = "https://perso.uclouvain.be/catherine.legrand/">Catherine Legrand</a>[]() (UCLouvain). My thesis manuscript is available <a href = "/files/PhDThesis-MailisAmicoG.pdf">here</a>.
 
 <p align= "justify">
-Before joining the University of Montpellier, I worked as biostastistician at the *Clinical Research Unit* of the Nestlé Research Center in Lausanne, Switzerland, from March 2019 to August 2021, and at the *[Clinical Research and Epidemiology Unit](https://www.chu-montpellier.fr/fr/recherche-et-innovation/notre-organisation/structures-support/unite-de-recherche-clinique-et-epidemiologie-urce)* of the Montpellier University Hospital from September 2022 to November 2024.
-</p>
+Before joining the University of Montpellier, I worked as biostastistician at the Clinical Research Unit of the Nestlé Research Center in Lausanne, Switzerland, from March 2019 to August 2021, and at the <a href = "https://www.chu-montpellier.fr/fr/recherche-et-innovation/notre-organisation/structures-support/unite-de-recherche-clinique-et-epidemiologie-urce">Clinical Research and Epidemiology Unit</a> of the Montpellier University Hospital from September 2022 to November 2024.
 
 <p align= "justify">
 My research interests lie in survival analysis, cure models, biostatistics and clinical research.
-</p>
 
 <p align= "justify">
-My CV can be found [here](/files/cv.pdf) (Last updated: April 2026)
+My CV can be found <a href = "/files/cv.pdf">here</a> (Last updated: April 2026).
 </p>
 
-<p align= "justify">
+
 **Contact**: mailis.amico[at]umontpellier.fr \
 300 avenue du Professeur Emile Jeanbrau\
 34090 Montpellier
-</p>
+
 
