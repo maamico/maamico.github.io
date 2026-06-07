@@ -4,59 +4,57 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+# Currently
 ## University of Montpellier (France)
-### Faculty of Medicine
 2025 -          : **Modèle linéaire général** (*20 hours/year*)  
-                  1st year Master's degree Epidémiologie, Données de Santé et Biostatistiques  
-
-2023 -          : **Modèles linéaires généralisés et mixtes** (*15 hours/year* - co-lecturers : Isabelle Jaussant and Thibault Mura)  
-                  2nd year Master's degree Epidémiologie, Données de Santé et Biostatistiques
-### Faculty of Sciences
+                  1st year Master's degree Epidémiologie, Données de Santé et Biostatistiques
+                  
 2025 -          : **HAX916X Ateliers - Data Science In Lab** (*12 hours/year* - joint with Elodie Brunel-Piccinini)  
 2nd year Master's degree Statistique et Science des données
 
+2023 -          : **Modèles linéaires généralisés et mixtes** (*15 hours/year* - joint with Isabelle Jaussant and Thibault Mura)  
+                  2nd year Master's degree Epidémiologie, Données de Santé et Biostatistiques
+
 ## University of Montpellier Paul Valery (France)
 2023 -          : **Régressions logistique et Poissonienne** (*8 hours/year* - Lecturer : Catherine Trottier) - *Practical activities* \
-1st year Master's degree MIASHS 
+1st year Master's degree MIASHS
 
 # Previously
-## University of Montpellier Paul Valery (France)
 2021 - 2022 : **Module Prépro : Métiers de l’analyse, des études et du conseil : Outils Statistiques S4** (*36 hours/year*) 
-2nd year Bachelor's degrees in Sociology, Psychology and Economic Administration
+2nd year Bachelor's degrees in Sociology, Psychology and Economic Administration - University of Montpellier Paul Valery (France)
 
 2021 - 2022 : **Statistiques descriptives et probabilitées** (*48 hours/year* - Lecturer : Jean-Michel Kosianski) - *Practical activities*   
-1st year Bachelor's degree MIASHS 
+1st year Bachelor's degree MIASHS - University of Montpellier Paul Valery (France)
 
 2021 - 2022 : **Statistiques descriptives**   (*27 hours/year*)  
-1st year Bachelor's degree in Sociology and Economic Administration
+1st year Bachelor's degree in Sociology and Economic Administration - University of Montpellier Paul Valery (France)
 
 2021 - 2022 : **Statistiques multivariées**  (*20 hours/year* - Lecturer: Jean-Michel Kosianski)  
-1st year Master's degree Gestion des Territoires et Développement Local
+1st year Master's degree Gestion des Territoires et Développement Local - University of Montpellier Paul Valery (France)
 
 2021 - 2022 : **Statistiques et probabilités bivariées** (*25 hours/year* - Lecturer : Pierre Lafaye de Micheaux) - *Practical activities*   
-2nd year Bachelor's degree MIASHS  
+2nd year Bachelor's degree MIASHS - University of Montpellier Paul Valery (France)
 
 2021 - 2022 : **Module Prépro : Métiers de l’analyse, des études et du conseil : Outils Statistiques S3** (*36 hours/year*)  
-2nd year Bachelor's degrees in Sociology, Psychology and economic administration
+2nd year Bachelor's degrees in Sociology, Psychology and economic administration - University of Montpellier Paul Valery (France)
 
-## Université catholique de Louvain (Belgium)
 2013 - 2017 : **Traitement statistique des données** *30 hours/year* - Lecturer : Catherine Legrand) - *Practical activities*  
-2nd year Bachelor's degree in Pharmacy
+2nd year Bachelor's degree in Pharmacy - Université catholique de Louvain (Belgium)
 
 2013 - 2017 : **Modèles linéaires avancés** (*5 hours/year* - Lecturer : Catherine Legrand) - *Practical activities*  
-Masters' degree in Statistics
+Masters' degree in Statistics - Université catholique de Louvain (Belgium)
 
 2013 - 2016 : **Biostatistique** (*90 hours/year* - Lecturer : Catherine Legrand)  *Practical activities*  
-2nd year Bachelor's degree in Veterinary Sciences
+2nd year Bachelor's degree in Veterinary Sciences - Université catholique de Louvain (Belgium)
 
 2013 - 2016 : **Plans expérimentaux** (*20 hours/year* - Lecturer : Bernadette Govaerts and Patrick Bogaert)- *Practical activities*  
-Master's degrees in Statistics and Agronomy
+Master's degrees in Statistics and Agronomy - Université catholique de Louvain (Belgium)
 
 2014 - 2016 : **Multivariate statistical analysis** (*45 hours/year* - Lecturer : Johan Segers) - *Practical activities*  
-2nd year Bachelor's degree in Management
+2nd year Bachelor's degree in Management - Université catholique de Louvain (Belgium)
 
 2013 - 2015 : **SAS Data Management I** (*20 hours/year* - Lecturer : Catherine Legrand)  
-Master's degree in Statistics
+Master's degree in Statistics - Université catholique de Louvain (Belgium)
 
 2013 - 2014 : **Statistique II : Inférence pour une ou deux variables** (*45 hours/year* - Lecturer : Bernadette Govaerts) - *Practical activities*  
-2nd year Bachelor's degree in Psychology
+2nd year Bachelor's degree in Psychology - Université catholique de Louvain (Belgium)
