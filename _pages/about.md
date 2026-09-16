@@ -33,8 +33,8 @@ My CV can be found <a href = "/files/cv.pdf">here</a> (Last updated: April 2026)
 
 <hr>
 <p align= "justify">
-<strong> <font size="+3"> OPEN POSITION :</font> </strong> 
-  
+<strong> <font size="+2"> OPEN POSITION :</font> </strong> 
+ <br> 
 I am currently looking for a 12 months post-doctoral researcher to work on causal inference methods for survival data with a cure fraction. Description is available <a href = "/files/PostDoc2026.pdf">HERE</a>.
 </p>
 
